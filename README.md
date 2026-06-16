@@ -72,6 +72,8 @@
 ![部分功能截图](https://www.mansitu.cn/images/mansicloud/cache.png)
 ![部分功能截图](https://www.mansitu.cn/images/mansicloud/rawdata.png)
 ![部分功能截图](https://www.mansitu.cn/images/mansicloud/devicemodel.png)
+
+### 边缘网关支持的设备类型
 ![部分功能截图](https://www.mansitu.cn/images/mansicloud/gateway.png)
 
 
