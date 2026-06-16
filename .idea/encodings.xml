@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mansicloud/mansicloud-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/mansicloud-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/mansicloud-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/mansicloud-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/mansicloud-scada/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/mansicloud-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/mansicloud-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/mansicloud-system/src/main/java/cn/mansitu/modules/system/config/LicenseProperties.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/mansicloud-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/mansicloud-tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mansicloud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/license-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/license-generator/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

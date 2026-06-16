@@ -1,0 +1,33 @@
+// base color
+$blue:#324157;
+$light-blue:#3A71A8;
+$red:#C03639;
+$pink: #E65D6E;
+$green: #30B08F;
+$tiffany: #4AB7BD;
+$yellow:#FEC171;
+$panGreen: #30B08F;
+
+// sidebar - 浅色科技蓝主题
+$menuText:#3a4a5a;
+$menuActiveText:#1890ff;
+$subMenuActiveText:#1a3b5c; 
+
+$menuBg:#e6f7ff;
+$menuHover:#d0e8ff;
+
+$subMenuBg:#f0f8ff;
+$subMenuHover:#e6f3ff;
+
+$sideBarWidth: 205px;
+
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mansicloud-system" />
+        <module name="mansicloud-starter" />
+        <module name="mansicloud-scada" />
+        <module name="mansicloud-generator" />
+        <module name="mansicloud-logging" />
+        <module name="mansicloud-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="license-generator" target="1.8" />
+      <module name="mansicloud-tools" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mansicloud-common" options="-parameters" />
+      <module name="mansicloud-generator" options="-parameters" />
+      <module name="mansicloud-logging" options="-parameters" />
+      <module name="mansicloud-scada" options="-parameters" />
+      <module name="mansicloud-starter" options="-parameters" />
+      <module name="mansicloud-system" options="-parameters" />
+      <module name="mansicloud-tools" options="-parameters" />
+    </option>
+  </component>
+</project>
