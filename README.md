@@ -60,6 +60,12 @@
 2. **在线演示**：[商业版本演示地址](https://iot.mansitu.cn/)。 用户名：mansitu 密码：Mansi@Cloud
 4. **QQ 交流群**：949919518(MansiCloud技术交流群)
 
+### 边缘网关支持的设备类型以及协议
+1.  **支持Modbus协议，三菱，西门子，欧姆龙，罗克韦尔，基恩士PLC，台达，倍福，松下，汇川，富士，永宏，施耐德等PLC的通信采集**
+2.  **支持三菱，ABB，KUKA，FANUC，安川，现代等机器人的数据通信**
+
+![部分功能截图](https://www.mansitu.cn/images/mansicloud/gateway.png)
+
 ### 系统截图
 
 ![部分功能截图](https://www.mansitu.cn/images/mansicloud/dashboard.png)
@@ -72,10 +78,6 @@
 ![部分功能截图](https://www.mansitu.cn/images/mansicloud/cache.png)
 ![部分功能截图](https://www.mansitu.cn/images/mansicloud/rawdata.png)
 ![部分功能截图](https://www.mansitu.cn/images/mansicloud/devicemodel.png)
-
-### 边缘网关支持的设备类型
-![部分功能截图](https://www.mansitu.cn/images/mansicloud/gateway.png)
-
 
 
 #### 开发文档
