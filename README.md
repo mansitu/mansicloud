@@ -11,9 +11,10 @@
 
 ### 项目源码
 
-|     | 后端源码                                              | 前端源码                                                  |
-|---  |---------------------------------------------------|-------------------------------------------------------|
-|  码云   | https://gitee.com/mansitu/mansicloud  <br/>mansicoud目录 | https://gitee.com/mansitu/mansicloud <br/>mansicould-web目录 |
+|        | 后端源码                                                    | 前端源码                                                        |
+|--------|---------------------------------------------------------|-------------------------------------------------------------|
+| 码云     | https://gitee.com/mansitu/mansicloud  <br/>mansicoud目录  | https://gitee.com/mansitu/mansicloud <br/>mansicould-web目录  |
+| Github | https://github.com/mansitu/mansicloud  <br/>mansicoud目录 | https://github.com/mansitu/mansicloud <br/>mansicould-web目录 |
 
 
 #### 主要特性
