@@ -2,7 +2,7 @@
 
 #### 项目简介
 
-一个基于 Spring Boot 2.7.18 、 Spring Boot Jpa、 JWT、Spring Security、Redis、Vue的前后端分离的开源物联网系统
+一个基于 Spring Boot、 Spring Boot Jpa、 JWT、Spring Security、Redis、Vue的前后端分离的开源物联网系统
 
 #### 项目源码
 
