@@ -3,7 +3,6 @@ package cn.mansitu.MqttHandler;
 import cn.mansitu.domain.Device;
 import cn.mansitu.domain.DeviceType;
 import cn.mansitu.domain.RawData;
-import cn.mansitu.modules.system.repository.DeptRepository;
 import cn.mansitu.repository.DeviceRepository;
 import cn.mansitu.repository.DeviceTypeRepository;
 import cn.mansitu.repository.RawDataRepository;
